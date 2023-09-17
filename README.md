@@ -1,0 +1,25 @@
+# Twitter-Sentiment-Classification
+
+### Motivation
+
+This task has been quite a familiar one to many NLP learners. Nevertheless, often times, learners would implement the code (mostly in Keras/Tensorflow) without a clear understanding of what they are actually doing - I, myself, was one such example. Therefore, my motivation for this project is to go into further details of how everything works under the hood and hopefully, provide a small guideline to help learners to start learning text processing more confidently. 
+
+### Introduction
+
+Twitter is a great open source of textual data for training specific natural language processing tasks, considering that there are millions of users expressing their own opinions, emotions or experiences regarding various matters everyday. For this, Twitter sentiment analysis is chosen to be the task of interests by many researchers or marketers to investigate how people feel towards certain topics, products, brands, etc.
+
+Within the scope of the project, however, we will solely focus on building, assessing and comparing several machine learning models that are trained specifically for sentiment analysis. The complexity of the models varies from as simple as a Logistic Regression model to a higher level such as the GRU. From this, we hope to obtain reasonably robust models and better understand the core process of sentiment classification. 
+
+The project will consist of the following stages:
+
+- Data cleaning
+- Data modelling
+  - Logistic Regression model. 
+  - Naive Bayes model.
+  - Feed-foward neural network.
+  - Bi-directional Recurrent neural network. 
+  - Convolutional neural network.
+  - Bi-directional Gated Recurrent unit.
+- Model evaluation
+
+If you have any questions/suggestions, please do not hesitate to open an issue. 
