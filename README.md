@@ -15,5 +15,3 @@ The project will consist of the following stages:
   - Convolutional neural network.
   - Bi-directional Gated Recurrent unit.
 - Model evaluation
-
-If you have any questions/suggestions, please do not hesitate to open an issue. 
