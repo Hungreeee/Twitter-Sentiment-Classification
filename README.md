@@ -7,7 +7,7 @@ Within the scope of the project, however, we will solely focus on building, asse
 The project will consist of the following stages:
 
 - Data cleaning:
-  - Remove noise texts and characters.
+  - Removing noises.
   - Negation handling.
 - Data modelling
   - Scikit-learn models:
@@ -21,5 +21,3 @@ The project will consist of the following stages:
     - Convolutional neural network (CNN).
     - Bi-directional Gated Recurrent unit (GRU).
 - Model evaluation and comparisons
-
-The results are 
